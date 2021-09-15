@@ -1,0 +1,44 @@
+{
+    "subject": "c9d6a12b608b6f5a4e1cc959f8d7991121996d659b7faa66312245354f44494e",
+    "name": {
+        "sequenceNumber": 0,
+        "value": "Odin Token",
+        "signatures": [
+            {
+                "signature": "0dedd63d7e26be777827f6f2b6d0f33885b5893a9bca2bf50775842c5b8e02b1413018624dd1e820b32e085ec5e3a7872f367d2965aa7a232dcbe0c1aef96202",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "ticker": {
+        "sequenceNumber": 0,
+        "value": "ODIN",
+        "signatures": [
+            {
+                "signature": "49a885841be771843d51e2dbb136c3dcbff2d638257ea46d02f2cd09d30024d0685c16c7811dc8c3d654209af8005ab86782462b30ba7831232b550b5d35a809",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "decimals": {
+        "sequenceNumber": 0,
+        "value": 0,
+        "signatures": [
+            {
+                "signature": "451aa2c6e9b18295c1fee98dce63129f3d7b78b61b6900b8e558d38aad9c1db8d32bfbda9bfcd40d202c6da7750af17a19504381635d7e86e092c0c7eb310f0a",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    },
+    "policy": "820182018282051a0263699a8200581c39a1df51147b6de6689a4727846962fb6540c3a3c7859a1a79b9420f",
+    "description": {
+        "sequenceNumber": 0,
+        "value": "A Token In Honor Of My Dog Odin. Might Get A Use Someday.",
+        "signatures": [
+            {
+                "signature": "ca43bbf3c8f77c82c99e01e72486189a211a34d77814a43bbcb9779308925b7fa80c97a7281e621fabc602b1892cd043f9b158be65d3b1ce7a0e95d60bb85303",
+                "publicKey": "5817526d712f71e33a31ac3429fb7ce70b3e17e727044d9a2a51493e7894ba48"
+            }
+        ]
+    }
+}
